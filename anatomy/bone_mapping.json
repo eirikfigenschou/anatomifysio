@@ -1,0 +1,2819 @@
+{
+  "count": 201,
+  "bones": [
+    {
+      "id": "bone-67",
+      "name": "left_parietal_bone",
+      "center": [
+        0.601,
+        14.6,
+        -0.765
+      ],
+      "size": [
+        1.484,
+        2.125,
+        2.631
+      ]
+    },
+    {
+      "id": "bone-161",
+      "name": "right_parietal_bone",
+      "center": [
+        -0.639,
+        14.6,
+        -0.798
+      ],
+      "size": [
+        1.457,
+        2.124,
+        2.56
+      ]
+    },
+    {
+      "id": "bone-35",
+      "name": "frontal_bone",
+      "center": [
+        -0.012,
+        14.571,
+        0.736
+      ],
+      "size": [
+        2.248,
+        1.956,
+        1.269
+      ]
+    },
+    {
+      "id": "bone-111",
+      "name": "occipital_bone",
+      "center": [
+        -0.011,
+        13.776,
+        -1.068
+      ],
+      "size": [
+        2.201,
+        1.915,
+        2.134
+      ]
+    },
+    {
+      "id": "bone-64",
+      "name": "left_nasal_bone",
+      "center": [
+        0.042,
+        13.535,
+        1.406
+      ],
+      "size": [
+        0.174,
+        0.568,
+        0.362
+      ]
+    },
+    {
+      "id": "bone-158",
+      "name": "right_nasal_bone",
+      "center": [
+        -0.089,
+        13.526,
+        1.421
+      ],
+      "size": [
+        0.151,
+        0.574,
+        0.381
+      ]
+    },
+    {
+      "id": "bone-26",
+      "name": "ethmoid",
+      "center": [
+        -0.012,
+        13.483,
+        0.762
+      ],
+      "size": [
+        0.748,
+        0.629,
+        0.85
+      ]
+    },
+    {
+      "id": "bone-153",
+      "name": "right_lacrimal_bone",
+      "center": [
+        -0.229,
+        13.48,
+        1.027
+      ],
+      "size": [
+        0.189,
+        0.457,
+        0.261
+      ]
+    },
+    {
+      "id": "bone-194",
+      "name": "sphenoid_bone",
+      "center": [
+        -0.012,
+        13.463,
+        0.3
+      ],
+      "size": [
+        1.998,
+        1.248,
+        0.98
+      ]
+    },
+    {
+      "id": "bone-173",
+      "name": "right_temporal_bone",
+      "center": [
+        -0.778,
+        13.461,
+        -0.298
+      ],
+      "size": [
+        1.1,
+        1.363,
+        1.771
+      ]
+    },
+    {
+      "id": "bone-79",
+      "name": "left_temporal_bone",
+      "center": [
+        0.755,
+        13.459,
+        -0.299
+      ],
+      "size": [
+        1.094,
+        1.363,
+        1.767
+      ]
+    },
+    {
+      "id": "bone-59",
+      "name": "left_lacrimal_bone",
+      "center": [
+        0.227,
+        13.44,
+        1.018
+      ],
+      "size": [
+        0.19,
+        0.52,
+        0.251
+      ]
+    },
+    {
+      "id": "bone-89",
+      "name": "left_zygomatic_bone",
+      "center": [
+        0.853,
+        13.373,
+        0.728
+      ],
+      "size": [
+        0.562,
+        1.007,
+        0.712
+      ]
+    },
+    {
+      "id": "bone-183",
+      "name": "right_zygomatic_bone",
+      "center": [
+        -0.877,
+        13.373,
+        0.729
+      ],
+      "size": [
+        0.562,
+        1.005,
+        0.712
+      ]
+    },
+    {
+      "id": "bone-156",
+      "name": "right_maxilla",
+      "center": [
+        -0.429,
+        13.194,
+        0.999
+      ],
+      "size": [
+        0.85,
+        1.244,
+        0.981
+      ]
+    },
+    {
+      "id": "bone-62",
+      "name": "left_maxilla",
+      "center": [
+        0.383,
+        13.193,
+        0.966
+      ],
+      "size": [
+        0.877,
+        1.243,
+        1.006
+      ]
+    },
+    {
+      "id": "bone-200",
+      "name": "vomer",
+      "center": [
+        -0.012,
+        13.152,
+        0.669
+      ],
+      "size": [
+        0.196,
+        0.781,
+        0.988
+      ]
+    },
+    {
+      "id": "bone-160",
+      "name": "right_palatine_bone",
+      "center": [
+        -0.257,
+        13.072,
+        0.459
+      ],
+      "size": [
+        0.52,
+        0.769,
+        0.836
+      ]
+    },
+    {
+      "id": "bone-66",
+      "name": "left_palatine_bone",
+      "center": [
+        0.232,
+        13.07,
+        0.46
+      ],
+      "size": [
+        0.52,
+        0.776,
+        0.837
+      ]
+    },
+    {
+      "id": "bone-1",
+      "name": "atlas",
+      "center": [
+        -0.01,
+        12.712,
+        -0.662
+      ],
+      "size": [
+        1.464,
+        0.345,
+        0.844
+      ]
+    },
+    {
+      "id": "bone-90",
+      "name": "mandible",
+      "center": [
+        -0.012,
+        12.569,
+        0.553
+      ],
+      "size": [
+        1.909,
+        1.515,
+        1.507
+      ]
+    },
+    {
+      "id": "bone-2",
+      "name": "axis",
+      "center": [
+        -0.012,
+        12.424,
+        -0.707
+      ],
+      "size": [
+        0.907,
+        0.811,
+        0.895
+      ]
+    },
+    {
+      "id": "bone-36",
+      "name": "hyoid_bone",
+      "center": [
+        -0.011,
+        11.991,
+        0.192
+      ],
+      "size": [
+        0.678,
+        0.332,
+        0.62
+      ]
+    },
+    {
+      "id": "bone-37",
+      "name": "hyoid_bone_(2)",
+      "center": [
+        -0.011,
+        11.991,
+        0.192
+      ],
+      "size": [
+        0.678,
+        0.332,
+        0.62
+      ]
+    },
+    {
+      "id": "bone-196",
+      "name": "third_cervical_vertebra",
+      "center": [
+        -0.012,
+        11.986,
+        -0.682
+      ],
+      "size": [
+        1.047,
+        0.516,
+        0.891
+      ]
+    },
+    {
+      "id": "bone-32",
+      "name": "fourth_cervical_vertebra",
+      "center": [
+        -0.012,
+        11.753,
+        -0.648
+      ],
+      "size": [
+        0.971,
+        0.494,
+        0.869
+      ]
+    },
+    {
+      "id": "bone-27",
+      "name": "fifth_cervical_vertebra",
+      "center": [
+        -0.012,
+        11.529,
+        -0.674
+      ],
+      "size": [
+        1.041,
+        0.435,
+        0.981
+      ]
+    },
+    {
+      "id": "bone-192",
+      "name": "sixth_cervical_vertebra",
+      "center": [
+        -0.012,
+        11.301,
+        -0.728
+      ],
+      "size": [
+        1.098,
+        0.415,
+        1.121
+      ]
+    },
+    {
+      "id": "bone-190",
+      "name": "seventh_cervical_vertebra",
+      "center": [
+        -0.012,
+        11.034,
+        -0.814
+      ],
+      "size": [
+        1.169,
+        0.487,
+        1.234
+      ]
+    },
+    {
+      "id": "bone-31",
+      "name": "first_thoracic_vertebra",
+      "center": [
+        -0.013,
+        10.743,
+        -0.88
+      ],
+      "size": [
+        1.315,
+        0.532,
+        1.252
+      ]
+    },
+    {
+      "id": "bone-185",
+      "name": "second_thoracic_vertebra",
+      "center": [
+        -0.012,
+        10.409,
+        -0.962
+      ],
+      "size": [
+        1.265,
+        0.606,
+        1.266
+      ]
+    },
+    {
+      "id": "bone-51",
+      "name": "left_first_rib",
+      "center": [
+        0.738,
+        10.352,
+        -0.064
+      ],
+      "size": [
+        0.981,
+        1.084,
+        1.184
+      ]
+    },
+    {
+      "id": "bone-145",
+      "name": "right_first_rib",
+      "center": [
+        -0.761,
+        10.352,
+        -0.064
+      ],
+      "size": [
+        0.981,
+        1.084,
+        1.184
+      ]
+    },
+    {
+      "id": "bone-134",
+      "name": "right_clavicle",
+      "center": [
+        -1.39,
+        10.204,
+        -0.006
+      ],
+      "size": [
+        2.433,
+        0.84,
+        1.66
+      ]
+    },
+    {
+      "id": "bone-40",
+      "name": "left_clavicle",
+      "center": [
+        1.366,
+        10.201,
+        -0.005
+      ],
+      "size": [
+        2.432,
+        0.837,
+        1.663
+      ]
+    },
+    {
+      "id": "bone-198",
+      "name": "third_thoracic_vertebra",
+      "center": [
+        -0.01,
+        10.025,
+        -1.112
+      ],
+      "size": [
+        1.163,
+        0.711,
+        1.352
+      ]
+    },
+    {
+      "id": "bone-169",
+      "name": "right_second_rib",
+      "center": [
+        -1.014,
+        9.922,
+        0.142
+      ],
+      "size": [
+        1.452,
+        1.534,
+        2.09
+      ]
+    },
+    {
+      "id": "bone-75",
+      "name": "left_second_rib",
+      "center": [
+        0.99,
+        9.921,
+        0.141
+      ],
+      "size": [
+        1.452,
+        1.534,
+        2.09
+      ]
+    },
+    {
+      "id": "bone-91",
+      "name": "manubrium",
+      "center": [
+        0,
+        9.679,
+        0.963
+      ],
+      "size": [
+        0.985,
+        0.807,
+        0.857
+      ]
+    },
+    {
+      "id": "bone-34",
+      "name": "fourth_thoracic_vertebra",
+      "center": [
+        -0.011,
+        9.622,
+        -1.186
+      ],
+      "size": [
+        1.251,
+        0.783,
+        1.245
+      ]
+    },
+    {
+      "id": "bone-83",
+      "name": "left_third_rib",
+      "center": [
+        1.08,
+        9.448,
+        0.126
+      ],
+      "size": [
+        1.703,
+        1.653,
+        2.555
+      ]
+    },
+    {
+      "id": "bone-177",
+      "name": "right_third_rib",
+      "center": [
+        -1.103,
+        9.448,
+        0.126
+      ],
+      "size": [
+        1.703,
+        1.653,
+        2.555
+      ]
+    },
+    {
+      "id": "bone-29",
+      "name": "fifth_thoracic_vertebra",
+      "center": [
+        -0.011,
+        9.065,
+        -1.22
+      ],
+      "size": [
+        1.275,
+        1.032,
+        1.185
+      ]
+    },
+    {
+      "id": "bone-72",
+      "name": "left_scapula",
+      "center": [
+        2.005,
+        9.036,
+        -0.935
+      ],
+      "size": [
+        1.963,
+        2.977,
+        1.936
+      ]
+    },
+    {
+      "id": "bone-166",
+      "name": "right_scapula",
+      "center": [
+        -2.005,
+        9.036,
+        -0.935
+      ],
+      "size": [
+        1.963,
+        2.976,
+        1.937
+      ]
+    },
+    {
+      "id": "bone-54",
+      "name": "left_fourth_rib",
+      "center": [
+        1.159,
+        8.97,
+        0.12
+      ],
+      "size": [
+        1.855,
+        1.87,
+        3.032
+      ]
+    },
+    {
+      "id": "bone-148",
+      "name": "right_fourth_rib",
+      "center": [
+        -1.19,
+        8.97,
+        0.12
+      ],
+      "size": [
+        1.84,
+        1.87,
+        3.032
+      ]
+    },
+    {
+      "id": "bone-193",
+      "name": "sixth_thoracic_vertebra",
+      "center": [
+        -0.012,
+        8.539,
+        -1.216
+      ],
+      "size": [
+        1.282,
+        1.071,
+        1.149
+      ]
+    },
+    {
+      "id": "bone-3",
+      "name": "body_of_sternum",
+      "center": [
+        0.003,
+        8.457,
+        1.588
+      ],
+      "size": [
+        0.853,
+        1.973,
+        0.873
+      ]
+    },
+    {
+      "id": "bone-48",
+      "name": "left_fifth_rib",
+      "center": [
+        1.254,
+        8.405,
+        0.075
+      ],
+      "size": [
+        2.005,
+        2.138,
+        3.318
+      ]
+    },
+    {
+      "id": "bone-142",
+      "name": "right_fifth_rib",
+      "center": [
+        -1.277,
+        8.405,
+        0.075
+      ],
+      "size": [
+        2.005,
+        2.138,
+        3.318
+      ]
+    },
+    {
+      "id": "bone-191",
+      "name": "seventh_thoracic_vertebra",
+      "center": [
+        -0.008,
+        8.025,
+        -1.205
+      ],
+      "size": [
+        1.319,
+        1.121,
+        1.19
+      ]
+    },
+    {
+      "id": "bone-77",
+      "name": "left_sixth_rib",
+      "center": [
+        1.308,
+        7.878,
+        -0.044
+      ],
+      "size": [
+        2.158,
+        2.313,
+        3.406
+      ]
+    },
+    {
+      "id": "bone-171",
+      "name": "right_sixth_rib",
+      "center": [
+        -1.338,
+        7.868,
+        -0.044
+      ],
+      "size": [
+        2.144,
+        2.293,
+        3.406
+      ]
+    },
+    {
+      "id": "bone-24",
+      "name": "eighth_thoracic_vertebra",
+      "center": [
+        -0.014,
+        7.538,
+        -1.158
+      ],
+      "size": [
+        1.181,
+        1.064,
+        1.276
+      ]
+    },
+    {
+      "id": "bone-57",
+      "name": "left_humerus",
+      "center": [
+        3.416,
+        7.528,
+        -0.455
+      ],
+      "size": [
+        1.806,
+        5.513,
+        0.882
+      ]
+    },
+    {
+      "id": "bone-151",
+      "name": "right_humerus",
+      "center": [
+        -3.417,
+        7.528,
+        -0.455
+      ],
+      "size": [
+        1.808,
+        5.514,
+        0.882
+      ]
+    },
+    {
+      "id": "bone-201",
+      "name": "xiphoid_process",
+      "center": [
+        0.002,
+        7.374,
+        1.882
+      ],
+      "size": [
+        0.376,
+        0.367,
+        0.266
+      ]
+    },
+    {
+      "id": "bone-76",
+      "name": "left_seventh_rib",
+      "center": [
+        1.329,
+        7.346,
+        -0.155
+      ],
+      "size": [
+        2.214,
+        2.423,
+        3.152
+      ]
+    },
+    {
+      "id": "bone-170",
+      "name": "right_seventh_rib",
+      "center": [
+        -1.353,
+        7.346,
+        -0.155
+      ],
+      "size": [
+        2.214,
+        2.423,
+        3.153
+      ]
+    },
+    {
+      "id": "bone-110",
+      "name": "ninth_thoracic_vertebra",
+      "center": [
+        -0.013,
+        7.041,
+        -1.06
+      ],
+      "size": [
+        1.209,
+        1.044,
+        1.283
+      ]
+    },
+    {
+      "id": "bone-136",
+      "name": "right_eighth_rib",
+      "center": [
+        -1.315,
+        6.813,
+        -0.312
+      ],
+      "size": [
+        2.14,
+        2.452,
+        2.837
+      ]
+    },
+    {
+      "id": "bone-42",
+      "name": "left_eighth_rib",
+      "center": [
+        1.292,
+        6.812,
+        -0.312
+      ],
+      "size": [
+        2.14,
+        2.452,
+        2.837
+      ]
+    },
+    {
+      "id": "bone-195",
+      "name": "tenth_thoracic_vertebra",
+      "center": [
+        -0.013,
+        6.552,
+        -0.988
+      ],
+      "size": [
+        1.182,
+        1.029,
+        1.368
+      ]
+    },
+    {
+      "id": "bone-65",
+      "name": "left_ninth_rib",
+      "center": [
+        1.277,
+        6.359,
+        -0.528
+      ],
+      "size": [
+        2.031,
+        2.427,
+        2.298
+      ]
+    },
+    {
+      "id": "bone-159",
+      "name": "right_ninth_rib",
+      "center": [
+        -1.3,
+        6.359,
+        -0.528
+      ],
+      "size": [
+        2.032,
+        2.427,
+        2.298
+      ]
+    },
+    {
+      "id": "bone-25",
+      "name": "eleventh_thoracic_vertebra",
+      "center": [
+        -0.011,
+        6.086,
+        -0.865
+      ],
+      "size": [
+        0.939,
+        0.961,
+        1.427
+      ]
+    },
+    {
+      "id": "bone-80",
+      "name": "left_tenth_rib",
+      "center": [
+        1.237,
+        5.879,
+        -0.654
+      ],
+      "size": [
+        1.916,
+        2.44,
+        1.908
+      ]
+    },
+    {
+      "id": "bone-174",
+      "name": "right_tenth_rib",
+      "center": [
+        -1.261,
+        5.879,
+        -0.655
+      ],
+      "size": [
+        1.916,
+        2.44,
+        1.908
+      ]
+    },
+    {
+      "id": "bone-199",
+      "name": "twelfth_thoracic_vertebra",
+      "center": [
+        -0.012,
+        5.607,
+        -0.7
+      ],
+      "size": [
+        0.779,
+        0.926,
+        1.414
+      ]
+    },
+    {
+      "id": "bone-43",
+      "name": "left_eleventh_rib",
+      "center": [
+        1.133,
+        5.412,
+        -0.79
+      ],
+      "size": [
+        1.682,
+        2.04,
+        1.4
+      ]
+    },
+    {
+      "id": "bone-137",
+      "name": "right_eleventh_rib",
+      "center": [
+        -1.157,
+        5.412,
+        -0.79
+      ],
+      "size": [
+        1.682,
+        2.039,
+        1.4
+      ]
+    },
+    {
+      "id": "bone-87",
+      "name": "left_twelfth_rib",
+      "center": [
+        0.916,
+        5.149,
+        -0.968
+      ],
+      "size": [
+        1.226,
+        1.396,
+        0.683
+      ]
+    },
+    {
+      "id": "bone-181",
+      "name": "right_twelfth_rib",
+      "center": [
+        -0.94,
+        5.149,
+        -0.968
+      ],
+      "size": [
+        1.226,
+        1.396,
+        0.684
+      ]
+    },
+    {
+      "id": "bone-30",
+      "name": "first_lumbar_vertebra",
+      "center": [
+        -0.012,
+        5.029,
+        -0.568
+      ],
+      "size": [
+        1.26,
+        1.019,
+        1.44
+      ]
+    },
+    {
+      "id": "bone-184",
+      "name": "second_lumbar_vertebra",
+      "center": [
+        -0.012,
+        4.535,
+        -0.475
+      ],
+      "size": [
+        1.425,
+        0.851,
+        1.442
+      ]
+    },
+    {
+      "id": "bone-197",
+      "name": "third_lumbar_vertebra",
+      "center": [
+        -0.012,
+        4.045,
+        -0.513
+      ],
+      "size": [
+        1.418,
+        0.754,
+        1.54
+      ]
+    },
+    {
+      "id": "bone-33",
+      "name": "fourth_lumbar_vertebra",
+      "center": [
+        -0.012,
+        3.548,
+        -0.587
+      ],
+      "size": [
+        1.51,
+        0.803,
+        1.511
+      ]
+    },
+    {
+      "id": "bone-28",
+      "name": "fifth_lumbar_vertebra",
+      "center": [
+        -0.013,
+        2.986,
+        -0.76
+      ],
+      "size": [
+        1.804,
+        0.901,
+        1.45
+      ]
+    },
+    {
+      "id": "bone-182",
+      "name": "right_ulna",
+      "center": [
+        -3.983,
+        2.97,
+        -0.303
+      ],
+      "size": [
+        0.902,
+        4.436,
+        1.412
+      ]
+    },
+    {
+      "id": "bone-88",
+      "name": "left_ulna",
+      "center": [
+        3.983,
+        2.969,
+        -0.307
+      ],
+      "size": [
+        0.901,
+        4.44,
+        1.412
+      ]
+    },
+    {
+      "id": "bone-70",
+      "name": "left_radius",
+      "center": [
+        4.476,
+        2.822,
+        -0.119
+      ],
+      "size": [
+        1.064,
+        4.106,
+        1.18
+      ]
+    },
+    {
+      "id": "bone-164",
+      "name": "right_radius",
+      "center": [
+        -4.48,
+        2.82,
+        -0.126
+      ],
+      "size": [
+        1.071,
+        4.112,
+        1.181
+      ]
+    },
+    {
+      "id": "bone-56",
+      "name": "left_hip_bone",
+      "center": [
+        1.323,
+        1.646,
+        -0.553
+      ],
+      "size": [
+        2.548,
+        3.698,
+        2.472
+      ]
+    },
+    {
+      "id": "bone-150",
+      "name": "right_hip_bone",
+      "center": [
+        -1.325,
+        1.646,
+        -0.555
+      ],
+      "size": [
+        2.549,
+        3.691,
+        2.474
+      ]
+    },
+    {
+      "id": "bone-165",
+      "name": "right_scaphoid",
+      "center": [
+        -4.686,
+        0.732,
+        0.325
+      ],
+      "size": [
+        0.426,
+        0.277,
+        0.271
+      ]
+    },
+    {
+      "id": "bone-71",
+      "name": "left_scaphoid",
+      "center": [
+        4.686,
+        0.73,
+        0.323
+      ],
+      "size": [
+        0.422,
+        0.277,
+        0.268
+      ]
+    },
+    {
+      "id": "bone-155",
+      "name": "right_lunate",
+      "center": [
+        -4.386,
+        0.724,
+        0.319
+      ],
+      "size": [
+        0.296,
+        0.222,
+        0.292
+      ]
+    },
+    {
+      "id": "bone-61",
+      "name": "left_lunate",
+      "center": [
+        4.389,
+        0.723,
+        0.321
+      ],
+      "size": [
+        0.297,
+        0.227,
+        0.296
+      ]
+    },
+    {
+      "id": "bone-85",
+      "name": "left_trapezium",
+      "center": [
+        4.903,
+        0.583,
+        0.451
+      ],
+      "size": [
+        0.305,
+        0.36,
+        0.302
+      ]
+    },
+    {
+      "id": "bone-179",
+      "name": "right_trapezium",
+      "center": [
+        -4.904,
+        0.583,
+        0.451
+      ],
+      "size": [
+        0.301,
+        0.358,
+        0.302
+      ]
+    },
+    {
+      "id": "bone-69",
+      "name": "left_pisiform",
+      "center": [
+        4.233,
+        0.578,
+        0.562
+      ],
+      "size": [
+        0.147,
+        0.207,
+        0.189
+      ]
+    },
+    {
+      "id": "bone-163",
+      "name": "right_pisiform",
+      "center": [
+        -4.236,
+        0.578,
+        0.564
+      ],
+      "size": [
+        0.148,
+        0.209,
+        0.187
+      ]
+    },
+    {
+      "id": "bone-39",
+      "name": "left_capitate",
+      "center": [
+        4.601,
+        0.54,
+        0.322
+      ],
+      "size": [
+        0.281,
+        0.402,
+        0.301
+      ]
+    },
+    {
+      "id": "bone-133",
+      "name": "right_capitate",
+      "center": [
+        -4.601,
+        0.54,
+        0.323
+      ],
+      "size": [
+        0.289,
+        0.402,
+        0.304
+      ]
+    },
+    {
+      "id": "bone-149",
+      "name": "right_hamate",
+      "center": [
+        -4.382,
+        0.497,
+        0.389
+      ],
+      "size": [
+        0.275,
+        0.347,
+        0.404
+      ]
+    },
+    {
+      "id": "bone-55",
+      "name": "left_hamate",
+      "center": [
+        4.379,
+        0.496,
+        0.388
+      ],
+      "size": [
+        0.269,
+        0.348,
+        0.407
+      ]
+    },
+    {
+      "id": "bone-180",
+      "name": "right_trapezoid",
+      "center": [
+        -4.803,
+        0.463,
+        0.358
+      ],
+      "size": [
+        0.2,
+        0.223,
+        0.267
+      ]
+    },
+    {
+      "id": "bone-86",
+      "name": "left_trapezoid",
+      "center": [
+        4.804,
+        0.462,
+        0.36
+      ],
+      "size": [
+        0.198,
+        0.225,
+        0.266
+      ]
+    },
+    {
+      "id": "bone-49",
+      "name": "left_first_metacarpal_bone",
+      "center": [
+        5.221,
+        0.28,
+        0.674
+      ],
+      "size": [
+        0.669,
+        0.666,
+        0.545
+      ]
+    },
+    {
+      "id": "bone-143",
+      "name": "right_first_metacarpal_bone",
+      "center": [
+        -5.219,
+        0.278,
+        0.677
+      ],
+      "size": [
+        0.67,
+        0.663,
+        0.542
+      ]
+    },
+    {
+      "id": "bone-140",
+      "name": "right_fifth_metacarpal_bone",
+      "center": [
+        -4.221,
+        -0.068,
+        0.561
+      ],
+      "size": [
+        0.361,
+        0.985,
+        0.439
+      ]
+    },
+    {
+      "id": "bone-46",
+      "name": "left_fifth_metacarpal_bone",
+      "center": [
+        4.222,
+        -0.07,
+        0.562
+      ],
+      "size": [
+        0.361,
+        0.982,
+        0.434
+      ]
+    },
+    {
+      "id": "bone-52",
+      "name": "left_fourth_metacarpal_bone",
+      "center": [
+        4.442,
+        -0.144,
+        0.5
+      ],
+      "size": [
+        0.223,
+        1.076,
+        0.467
+      ]
+    },
+    {
+      "id": "bone-146",
+      "name": "right_fourth_metacarpal_bone",
+      "center": [
+        -4.442,
+        -0.144,
+        0.501
+      ],
+      "size": [
+        0.221,
+        1.074,
+        0.467
+      ]
+    },
+    {
+      "id": "bone-175",
+      "name": "right_third_metacarpal_bone",
+      "center": [
+        -4.708,
+        -0.183,
+        0.476
+      ],
+      "size": [
+        0.356,
+        1.156,
+        0.546
+      ]
+    },
+    {
+      "id": "bone-73",
+      "name": "left_second_metacarpal_bone",
+      "center": [
+        4.974,
+        -0.185,
+        0.516
+      ],
+      "size": [
+        0.552,
+        1.217,
+        0.454
+      ]
+    },
+    {
+      "id": "bone-81",
+      "name": "left_third_metacarpal_bone",
+      "center": [
+        4.706,
+        -0.187,
+        0.477
+      ],
+      "size": [
+        0.357,
+        1.155,
+        0.545
+      ]
+    },
+    {
+      "id": "bone-167",
+      "name": "right_second_metacarpal_bone",
+      "center": [
+        -4.974,
+        -0.187,
+        0.519
+      ],
+      "size": [
+        0.554,
+        1.22,
+        0.462
+      ]
+    },
+    {
+      "id": "bone-131",
+      "name": "proximal_phalanx_of_right_thumb",
+      "center": [
+        -5.539,
+        -0.213,
+        0.947
+      ],
+      "size": [
+        0.362,
+        0.567,
+        0.399
+      ]
+    },
+    {
+      "id": "bone-121",
+      "name": "proximal_phalanx_of_left_thumb",
+      "center": [
+        5.538,
+        -0.214,
+        0.945
+      ],
+      "size": [
+        0.357,
+        0.568,
+        0.397
+      ]
+    },
+    {
+      "id": "bone-13",
+      "name": "distal_phalanx_of_left_thumb",
+      "center": [
+        5.694,
+        -0.584,
+        1.153
+      ],
+      "size": [
+        0.235,
+        0.412,
+        0.288
+      ]
+    },
+    {
+      "id": "bone-23",
+      "name": "distal_phalanx_of_right_thumb",
+      "center": [
+        -5.689,
+        -0.585,
+        1.153
+      ],
+      "size": [
+        0.245,
+        0.413,
+        0.291
+      ]
+    },
+    {
+      "id": "bone-125",
+      "name": "proximal_phalanx_of_right_little_finger",
+      "center": [
+        -4.113,
+        -0.782,
+        0.863
+      ],
+      "size": [
+        0.254,
+        0.585,
+        0.373
+      ]
+    },
+    {
+      "id": "bone-115",
+      "name": "proximal_phalanx_of_left_little_finger",
+      "center": [
+        4.113,
+        -0.784,
+        0.862
+      ],
+      "size": [
+        0.252,
+        0.581,
+        0.373
+      ]
+    },
+    {
+      "id": "bone-118",
+      "name": "proximal_phalanx_of_left_ring_finger",
+      "center": [
+        4.435,
+        -0.965,
+        0.858
+      ],
+      "size": [
+        0.24,
+        0.698,
+        0.47
+      ]
+    },
+    {
+      "id": "bone-128",
+      "name": "proximal_phalanx_of_right_ring_finger",
+      "center": [
+        -4.435,
+        -0.966,
+        0.858
+      ],
+      "size": [
+        0.237,
+        0.699,
+        0.472
+      ]
+    },
+    {
+      "id": "bone-117",
+      "name": "proximal_phalanx_of_left_middle_finger",
+      "center": [
+        4.813,
+        -1.052,
+        0.873
+      ],
+      "size": [
+        0.326,
+        0.73,
+        0.519
+      ]
+    },
+    {
+      "id": "bone-127",
+      "name": "proximal_phalanx_of_right_middle_finger",
+      "center": [
+        -4.814,
+        -1.053,
+        0.873
+      ],
+      "size": [
+        0.327,
+        0.728,
+        0.522
+      ]
+    },
+    {
+      "id": "bone-114",
+      "name": "proximal_phalanx_of_left_index_finger",
+      "center": [
+        5.235,
+        -1.054,
+        0.8
+      ],
+      "size": [
+        0.395,
+        0.675,
+        0.412
+      ]
+    },
+    {
+      "id": "bone-124",
+      "name": "proximal_phalanx_of_right_index_finger",
+      "center": [
+        -5.236,
+        -1.054,
+        0.797
+      ],
+      "size": [
+        0.391,
+        0.671,
+        0.407
+      ]
+    },
+    {
+      "id": "bone-102",
+      "name": "middle_phalanx_of_right_little_finger",
+      "center": [
+        -4.032,
+        -1.182,
+        1.115
+      ],
+      "size": [
+        0.208,
+        0.351,
+        0.298
+      ]
+    },
+    {
+      "id": "bone-94",
+      "name": "middle_phalanx_of_left_little_finger",
+      "center": [
+        4.03,
+        -1.184,
+        1.116
+      ],
+      "size": [
+        0.204,
+        0.352,
+        0.297
+      ]
+    },
+    {
+      "id": "bone-17",
+      "name": "distal_phalanx_of_right_little_finger",
+      "center": [
+        -4.002,
+        -1.44,
+        1.328
+      ],
+      "size": [
+        0.149,
+        0.225,
+        0.246
+      ]
+    },
+    {
+      "id": "bone-7",
+      "name": "distal_phalanx_of_left_little_finger",
+      "center": [
+        4.001,
+        -1.441,
+        1.334
+      ],
+      "size": [
+        0.148,
+        0.228,
+        0.249
+      ]
+    },
+    {
+      "id": "bone-97",
+      "name": "middle_phalanx_of_left_ring_finger",
+      "center": [
+        4.461,
+        -1.462,
+        1.214
+      ],
+      "size": [
+        0.211,
+        0.428,
+        0.426
+      ]
+    },
+    {
+      "id": "bone-105",
+      "name": "middle_phalanx_of_right_ring_finger",
+      "center": [
+        -4.459,
+        -1.464,
+        1.212
+      ],
+      "size": [
+        0.207,
+        0.429,
+        0.431
+      ]
+    },
+    {
+      "id": "bone-93",
+      "name": "middle_phalanx_of_left_index_finger",
+      "center": [
+        5.413,
+        -1.472,
+        1.088
+      ],
+      "size": [
+        0.262,
+        0.367,
+        0.373
+      ]
+    },
+    {
+      "id": "bone-101",
+      "name": "middle_phalanx_of_right_index_finger",
+      "center": [
+        -5.413,
+        -1.472,
+        1.089
+      ],
+      "size": [
+        0.262,
+        0.367,
+        0.373
+      ]
+    },
+    {
+      "id": "bone-104",
+      "name": "middle_phalanx_of_right_middle_finger",
+      "center": [
+        -4.905,
+        -1.581,
+        1.226
+      ],
+      "size": [
+        0.244,
+        0.455,
+        0.415
+      ]
+    },
+    {
+      "id": "bone-96",
+      "name": "middle_phalanx_of_left_middle_finger",
+      "center": [
+        4.904,
+        -1.582,
+        1.226
+      ],
+      "size": [
+        0.246,
+        0.455,
+        0.413
+      ]
+    },
+    {
+      "id": "bone-20",
+      "name": "distal_phalanx_of_right_ring_finger",
+      "center": [
+        -4.475,
+        -1.683,
+        1.535
+      ],
+      "size": [
+        0.15,
+        0.164,
+        0.281
+      ]
+    },
+    {
+      "id": "bone-10",
+      "name": "distal_phalanx_of_left_ring_finger",
+      "center": [
+        4.476,
+        -1.685,
+        1.535
+      ],
+      "size": [
+        0.15,
+        0.163,
+        0.28
+      ]
+    },
+    {
+      "id": "bone-16",
+      "name": "distal_phalanx_of_right_index_finger",
+      "center": [
+        -5.497,
+        -1.695,
+        1.385
+      ],
+      "size": [
+        0.178,
+        0.248,
+        0.306
+      ]
+    },
+    {
+      "id": "bone-6",
+      "name": "distal_phalanx_of_left_index_finger",
+      "center": [
+        5.495,
+        -1.696,
+        1.384
+      ],
+      "size": [
+        0.179,
+        0.246,
+        0.307
+      ]
+    },
+    {
+      "id": "bone-9",
+      "name": "distal_phalanx_of_left_middle_finger",
+      "center": [
+        4.954,
+        -1.855,
+        1.535
+      ],
+      "size": [
+        0.17,
+        0.233,
+        0.305
+      ]
+    },
+    {
+      "id": "bone-19",
+      "name": "distal_phalanx_of_right_middle_finger",
+      "center": [
+        -4.954,
+        -1.856,
+        1.539
+      ],
+      "size": [
+        0.171,
+        0.242,
+        0.309
+      ]
+    },
+    {
+      "id": "bone-138",
+      "name": "right_femur",
+      "center": [
+        -1.633,
+        -2.908,
+        -0.361
+      ],
+      "size": [
+        2.121,
+        8.362,
+        1.124
+      ]
+    },
+    {
+      "id": "bone-44",
+      "name": "left_femur",
+      "center": [
+        1.634,
+        -2.909,
+        -0.361
+      ],
+      "size": [
+        2.122,
+        8.364,
+        1.127
+      ]
+    },
+    {
+      "id": "bone-68",
+      "name": "left_patella",
+      "center": [
+        1.461,
+        -6.856,
+        0.194
+      ],
+      "size": [
+        0.747,
+        0.704,
+        0.392
+      ]
+    },
+    {
+      "id": "bone-162",
+      "name": "right_patella",
+      "center": [
+        -1.461,
+        -6.856,
+        0.195
+      ],
+      "size": [
+        0.748,
+        0.705,
+        0.39
+      ]
+    },
+    {
+      "id": "bone-178",
+      "name": "right_tibia",
+      "center": [
+        -1.297,
+        -10.394,
+        -0.315
+      ],
+      "size": [
+        1.33,
+        6.817,
+        1.126
+      ]
+    },
+    {
+      "id": "bone-84",
+      "name": "left_tibia",
+      "center": [
+        1.296,
+        -10.395,
+        -0.319
+      ],
+      "size": [
+        1.335,
+        6.817,
+        1.122
+      ]
+    },
+    {
+      "id": "bone-45",
+      "name": "left_fibula",
+      "center": [
+        1.836,
+        -10.698,
+        -0.676
+      ],
+      "size": [
+        0.638,
+        6.895,
+        0.531
+      ]
+    },
+    {
+      "id": "bone-139",
+      "name": "right_fibula",
+      "center": [
+        -1.835,
+        -10.699,
+        -0.676
+      ],
+      "size": [
+        0.643,
+        6.897,
+        0.533
+      ]
+    },
+    {
+      "id": "bone-172",
+      "name": "right_talus",
+      "center": [
+        -1.254,
+        -13.945,
+        -0.428
+      ],
+      "size": [
+        0.726,
+        0.615,
+        1.019
+      ]
+    },
+    {
+      "id": "bone-78",
+      "name": "left_talus",
+      "center": [
+        1.254,
+        -13.947,
+        -0.426
+      ],
+      "size": [
+        0.727,
+        0.617,
+        1.02
+      ]
+    },
+    {
+      "id": "bone-109",
+      "name": "navicular_bone_of_right_foot",
+      "center": [
+        -1.39,
+        -14.025,
+        0.119
+      ],
+      "size": [
+        0.692,
+        0.442,
+        0.478
+      ]
+    },
+    {
+      "id": "bone-108",
+      "name": "navicular_bone_of_left_foot",
+      "center": [
+        1.387,
+        -14.028,
+        0.12
+      ],
+      "size": [
+        0.695,
+        0.443,
+        0.481
+      ]
+    },
+    {
+      "id": "bone-58",
+      "name": "left_intermediate_cuneiform_bone",
+      "center": [
+        1.65,
+        -14.104,
+        0.34
+      ],
+      "size": [
+        0.358,
+        0.415,
+        0.371
+      ]
+    },
+    {
+      "id": "bone-152",
+      "name": "right_intermediate_cuneiform_bone",
+      "center": [
+        -1.649,
+        -14.105,
+        0.342
+      ],
+      "size": [
+        0.361,
+        0.414,
+        0.376
+      ]
+    },
+    {
+      "id": "bone-60",
+      "name": "left_lateral_cuneiform_bone",
+      "center": [
+        1.795,
+        -14.191,
+        0.216
+      ],
+      "size": [
+        0.46,
+        0.463,
+        0.435
+      ]
+    },
+    {
+      "id": "bone-154",
+      "name": "right_lateral_cuneiform_bone",
+      "center": [
+        -1.795,
+        -14.191,
+        0.216
+      ],
+      "size": [
+        0.461,
+        0.461,
+        0.438
+      ]
+    },
+    {
+      "id": "bone-63",
+      "name": "left_medial_cuneiform_bone",
+      "center": [
+        1.437,
+        -14.226,
+        0.454
+      ],
+      "size": [
+        0.504,
+        0.555,
+        0.511
+      ]
+    },
+    {
+      "id": "bone-157",
+      "name": "right_medial_cuneiform_bone",
+      "center": [
+        -1.436,
+        -14.227,
+        0.453
+      ],
+      "size": [
+        0.505,
+        0.557,
+        0.512
+      ]
+    },
+    {
+      "id": "bone-135",
+      "name": "right_cuboid_bone",
+      "center": [
+        -1.771,
+        -14.35,
+        -0.014
+      ],
+      "size": [
+        0.587,
+        0.521,
+        0.593
+      ]
+    },
+    {
+      "id": "bone-41",
+      "name": "left_cuboid_bone",
+      "center": [
+        1.768,
+        -14.352,
+        -0.019
+      ],
+      "size": [
+        0.595,
+        0.532,
+        0.601
+      ]
+    },
+    {
+      "id": "bone-74",
+      "name": "left_second_metatarsal_bone",
+      "center": [
+        1.901,
+        -14.451,
+        0.967
+      ],
+      "size": [
+        0.552,
+        0.859,
+        1.164
+      ]
+    },
+    {
+      "id": "bone-168",
+      "name": "right_second_metatarsal_bone",
+      "center": [
+        -1.901,
+        -14.453,
+        0.967
+      ],
+      "size": [
+        0.549,
+        0.861,
+        1.165
+      ]
+    },
+    {
+      "id": "bone-144",
+      "name": "right_first_metatarsal_bone",
+      "center": [
+        -1.607,
+        -14.478,
+        1.077
+      ],
+      "size": [
+        0.53,
+        0.775,
+        1.117
+      ]
+    },
+    {
+      "id": "bone-38",
+      "name": "left_calcaneus",
+      "center": [
+        1.308,
+        -14.479,
+        -0.751
+      ],
+      "size": [
+        1,
+        0.885,
+        1.255
+      ]
+    },
+    {
+      "id": "bone-50",
+      "name": "left_first_metatarsal_bone",
+      "center": [
+        1.608,
+        -14.479,
+        1.078
+      ],
+      "size": [
+        0.53,
+        0.776,
+        1.117
+      ]
+    },
+    {
+      "id": "bone-132",
+      "name": "right_calcaneus",
+      "center": [
+        -1.307,
+        -14.48,
+        -0.752
+      ],
+      "size": [
+        1.003,
+        0.885,
+        1.258
+      ]
+    },
+    {
+      "id": "bone-176",
+      "name": "right_third_metatarsal_bone",
+      "center": [
+        -2.08,
+        -14.502,
+        0.872
+      ],
+      "size": [
+        0.633,
+        0.766,
+        1.121
+      ]
+    },
+    {
+      "id": "bone-82",
+      "name": "left_third_metatarsal_bone",
+      "center": [
+        2.081,
+        -14.503,
+        0.869
+      ],
+      "size": [
+        0.633,
+        0.769,
+        1.124
+      ]
+    },
+    {
+      "id": "bone-53",
+      "name": "left_fourth_metatarsal_bone",
+      "center": [
+        2.192,
+        -14.585,
+        0.667
+      ],
+      "size": [
+        0.733,
+        0.635,
+        1.121
+      ]
+    },
+    {
+      "id": "bone-147",
+      "name": "right_fourth_metatarsal_bone",
+      "center": [
+        -2.194,
+        -14.585,
+        0.67
+      ],
+      "size": [
+        0.732,
+        0.635,
+        1.125
+      ]
+    },
+    {
+      "id": "bone-47",
+      "name": "left_fifth_metatarsal_bone",
+      "center": [
+        2.322,
+        -14.677,
+        0.38
+      ],
+      "size": [
+        0.824,
+        0.539,
+        1.18
+      ]
+    },
+    {
+      "id": "bone-141",
+      "name": "right_fifth_metatarsal_bone",
+      "center": [
+        -2.321,
+        -14.678,
+        0.381
+      ],
+      "size": [
+        0.823,
+        0.537,
+        1.179
+      ]
+    },
+    {
+      "id": "bone-112",
+      "name": "proximal_phalanx_of_left_big_toe",
+      "center": [
+        1.828,
+        -14.77,
+        1.824
+      ],
+      "size": [
+        0.545,
+        0.303,
+        0.596
+      ]
+    },
+    {
+      "id": "bone-122",
+      "name": "proximal_phalanx_of_right_big_toe",
+      "center": [
+        -1.829,
+        -14.771,
+        1.824
+      ],
+      "size": [
+        0.548,
+        0.309,
+        0.596
+      ]
+    },
+    {
+      "id": "bone-119",
+      "name": "proximal_phalanx_of_left_second_toe",
+      "center": [
+        2.197,
+        -14.782,
+        1.732
+      ],
+      "size": [
+        0.395,
+        0.222,
+        0.505
+      ]
+    },
+    {
+      "id": "bone-129",
+      "name": "proximal_phalanx_of_right_second_toe",
+      "center": [
+        -2.197,
+        -14.783,
+        1.733
+      ],
+      "size": [
+        0.399,
+        0.221,
+        0.505
+      ]
+    },
+    {
+      "id": "bone-120",
+      "name": "proximal_phalanx_of_left_third_toe",
+      "center": [
+        2.43,
+        -14.803,
+        1.574
+      ],
+      "size": [
+        0.371,
+        0.211,
+        0.506
+      ]
+    },
+    {
+      "id": "bone-130",
+      "name": "proximal_phalanx_of_right_third_toe",
+      "center": [
+        -2.431,
+        -14.805,
+        1.572
+      ],
+      "size": [
+        0.374,
+        0.205,
+        0.51
+      ]
+    },
+    {
+      "id": "bone-113",
+      "name": "proximal_phalanx_of_left_fourth_toe",
+      "center": [
+        2.603,
+        -14.826,
+        1.353
+      ],
+      "size": [
+        0.387,
+        0.236,
+        0.431
+      ]
+    },
+    {
+      "id": "bone-123",
+      "name": "proximal_phalanx_of_right_fourth_toe",
+      "center": [
+        -2.604,
+        -14.826,
+        1.353
+      ],
+      "size": [
+        0.387,
+        0.238,
+        0.431
+      ]
+    },
+    {
+      "id": "bone-98",
+      "name": "middle_phalanx_of_left_second_toe",
+      "center": [
+        2.371,
+        -14.836,
+        2.064
+      ],
+      "size": [
+        0.253,
+        0.155,
+        0.307
+      ]
+    },
+    {
+      "id": "bone-106",
+      "name": "middle_phalanx_of_right_second_toe",
+      "center": [
+        -2.374,
+        -14.837,
+        2.066
+      ],
+      "size": [
+        0.253,
+        0.154,
+        0.306
+      ]
+    },
+    {
+      "id": "bone-14",
+      "name": "distal_phalanx_of_right_big_toe",
+      "center": [
+        -2.041,
+        -14.85,
+        2.196
+      ],
+      "size": [
+        0.408,
+        0.195,
+        0.453
+      ]
+    },
+    {
+      "id": "bone-4",
+      "name": "distal_phalanx_of_left_big_toe",
+      "center": [
+        2.041,
+        -14.851,
+        2.194
+      ],
+      "size": [
+        0.405,
+        0.197,
+        0.452
+      ]
+    },
+    {
+      "id": "bone-188",
+      "name": "sesamoid_bone_of_right_foot",
+      "center": [
+        -1.626,
+        -14.854,
+        1.42
+      ],
+      "size": [
+        0.127,
+        0.111,
+        0.167
+      ]
+    },
+    {
+      "id": "bone-186",
+      "name": "sesamoid_bone_of_left_foot",
+      "center": [
+        1.631,
+        -14.856,
+        1.42
+      ],
+      "size": [
+        0.122,
+        0.115,
+        0.165
+      ]
+    },
+    {
+      "id": "bone-107",
+      "name": "middle_phalanx_of_right_third_toe",
+      "center": [
+        -2.607,
+        -14.858,
+        1.907
+      ],
+      "size": [
+        0.23,
+        0.142,
+        0.303
+      ]
+    },
+    {
+      "id": "bone-116",
+      "name": "proximal_phalanx_of_left_little_toe",
+      "center": [
+        2.76,
+        -14.858,
+        1.083
+      ],
+      "size": [
+        0.392,
+        0.176,
+        0.453
+      ]
+    },
+    {
+      "id": "bone-126",
+      "name": "proximal_phalanx_of_right_little_toe",
+      "center": [
+        -2.76,
+        -14.859,
+        1.083
+      ],
+      "size": [
+        0.394,
+        0.177,
+        0.455
+      ]
+    },
+    {
+      "id": "bone-99",
+      "name": "middle_phalanx_of_left_third_toe",
+      "center": [
+        2.608,
+        -14.861,
+        1.908
+      ],
+      "size": [
+        0.231,
+        0.141,
+        0.304
+      ]
+    },
+    {
+      "id": "bone-189",
+      "name": "sesamoid_bone_of_right_foot_(2)",
+      "center": [
+        -1.774,
+        -14.869,
+        1.366
+      ],
+      "size": [
+        0.148,
+        0.135,
+        0.23
+      ]
+    },
+    {
+      "id": "bone-187",
+      "name": "sesamoid_bone_of_left_foot_(2)",
+      "center": [
+        1.775,
+        -14.871,
+        1.365
+      ],
+      "size": [
+        0.152,
+        0.132,
+        0.231
+      ]
+    },
+    {
+      "id": "bone-92",
+      "name": "middle_phalanx_of_left_fourth_toe",
+      "center": [
+        2.785,
+        -14.876,
+        1.634
+      ],
+      "size": [
+        0.221,
+        0.14,
+        0.239
+      ]
+    },
+    {
+      "id": "bone-100",
+      "name": "middle_phalanx_of_right_fourth_toe",
+      "center": [
+        -2.785,
+        -14.876,
+        1.635
+      ],
+      "size": [
+        0.22,
+        0.143,
+        0.24
+      ]
+    },
+    {
+      "id": "bone-11",
+      "name": "distal_phalanx_of_left_second_toe",
+      "center": [
+        2.472,
+        -14.889,
+        2.268
+      ],
+      "size": [
+        0.202,
+        0.129,
+        0.236
+      ]
+    },
+    {
+      "id": "bone-21",
+      "name": "distal_phalanx_of_right_second_toe",
+      "center": [
+        -2.473,
+        -14.89,
+        2.27
+      ],
+      "size": [
+        0.197,
+        0.13,
+        0.235
+      ]
+    },
+    {
+      "id": "bone-5",
+      "name": "distal_phalanx_of_left_fourth_toe",
+      "center": [
+        2.864,
+        -14.894,
+        1.794
+      ],
+      "size": [
+        0.159,
+        0.123,
+        0.2
+      ]
+    },
+    {
+      "id": "bone-15",
+      "name": "distal_phalanx_of_right_fourth_toe",
+      "center": [
+        -2.866,
+        -14.894,
+        1.793
+      ],
+      "size": [
+        0.158,
+        0.126,
+        0.2
+      ]
+    },
+    {
+      "id": "bone-95",
+      "name": "middle_phalanx_of_left_little_toe",
+      "center": [
+        2.913,
+        -14.894,
+        1.332
+      ],
+      "size": [
+        0.154,
+        0.113,
+        0.133
+      ]
+    },
+    {
+      "id": "bone-103",
+      "name": "middle_phalanx_of_right_little_toe",
+      "center": [
+        -2.913,
+        -14.894,
+        1.33
+      ],
+      "size": [
+        0.154,
+        0.114,
+        0.132
+      ]
+    },
+    {
+      "id": "bone-12",
+      "name": "distal_phalanx_of_left_third_toe",
+      "center": [
+        2.697,
+        -14.901,
+        2.099
+      ],
+      "size": [
+        0.161,
+        0.106,
+        0.203
+      ]
+    },
+    {
+      "id": "bone-22",
+      "name": "distal_phalanx_of_right_third_toe",
+      "center": [
+        -2.698,
+        -14.901,
+        2.098
+      ],
+      "size": [
+        0.16,
+        0.104,
+        0.205
+      ]
+    },
+    {
+      "id": "bone-18",
+      "name": "distal_phalanx_of_right_little_toe",
+      "center": [
+        -2.965,
+        -14.909,
+        1.442
+      ],
+      "size": [
+        0.146,
+        0.094,
+        0.186
+      ]
+    },
+    {
+      "id": "bone-8",
+      "name": "distal_phalanx_of_left_little_toe",
+      "center": [
+        2.966,
+        -14.91,
+        1.441
+      ],
+      "size": [
+        0.145,
+        0.096,
+        0.186
+      ]
+    }
+  ]
+}
